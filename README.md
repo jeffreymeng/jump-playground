@@ -1,2 +1,2 @@
 # jump-playground
-Playground for jeffreymeng/jump
+Playground for [Jump](https://github.com/jeffreymeng/jump)
